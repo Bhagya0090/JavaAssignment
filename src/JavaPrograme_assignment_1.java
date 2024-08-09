@@ -31,7 +31,7 @@ public class JavaPrograme_assignment_1 {
 		//Q2)Create a program to determine if a given year is a leap year or not.
 		/*
 		 int year= 2024;
-		 if(year/4==0)
+		 if(year%4==0)
 		 {
 			 System.out.println("Give year is leap year");
 		 }
